@@ -1,15 +1,23 @@
 {
     "images": [{
         "id": "0",
-        "path": "https://picsum.photos/id/1/1200/600"
+        "path": "src/assets/img/webapp.jpg",
+        "title": "WEB DEVELOPMENT",
+        "description": "Websites promote you 24/7: No employee will do that."
     }, {
         "id": "1",
-        "path": "https://picsum.photos/id/2/1200/600"
+        "path": "src/assets/img/mobapp.jpg",
+        "title": "MOBILE APP DEVELOPMENT",
+        "description": "The future of mobile is the future of online. It is how people access online content now."
     }, {
         "id": "2",
-        "path": "https://picsum.photos/id/20/1200/600"
+        "path": "src/assets/img/digital.jpg",
+        "title": "DIGITAL MARKETING",
+        "description": "It’s hard to find things that won’t sell online."
     }, {
         "id": "3",
-        "path": "https://picsum.photos/id/201/1200/600"
+        "path": "src/assets/img/pos.jpg",
+        "title": "POS SYSTEMS",
+        "description": "For every minute spent organizing, an hour is earned."
     }]
 }
