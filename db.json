@@ -41,5 +41,20 @@
         "path": "src/assets/img/work/pos.jpg",
         "title": "torbedo POS",
         "tech": ["POS system", "website"]
+    }],
+    "about": [{
+        "title": "YALLA CODING",
+        "desc": "YALLA CODING is an innovative technology and services company specializing we design and develop professional Business Solutions Joining Yalacoding is an invitation to build your own career , high standards and enthusiasm are the strong assets of our success. Come and meet the teams of our 'Yalacoding' to get started in your company. See you soon at your place",
+        "targets": [{
+            "title": "OUR MISSION",
+            "desc": "is an innovative technology and services company specializing we design and develop professional Business Solutions Joining Yalacoding is an invitation to build your own career"
+        }, {
+            "title": "OUR VISION",
+            "desc": "is an innovative technology and services company specializing we design and develop professional Business Solutions Joining Yalacoding is an invitation to build your own career"
+        }, {
+            "title": "OUR GOAL",
+            "desc": "is an innovative technology and services company specializing we design and develop professional Business Solutions Joining Yalacoding is an invitation to build your own career"
+
+        }]
     }]
 }
