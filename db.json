@@ -1,5 +1,5 @@
 {
-    "images": [{
+    "slider": [{
         "id": "0",
         "path": "src/assets/img/webapp.jpg",
         "title": "WEB DEVELOPMENT",
@@ -19,5 +19,27 @@
         "path": "src/assets/img/pos.jpg",
         "title": "POS SYSTEMS",
         "description": "For every minute spent organizing, an hour is earned."
+    }],
+
+    "clients": [{
+        "id": "0",
+        "path": "src/assets/img/work/os.png",
+        "title": "os-family",
+        "tech": ["mob App", "website"]
+    }, {
+        "id": "1",
+        "path": "src/assets/img/work/wisefox.png",
+        "title": "wisefox",
+        "tech": ["website"]
+    }, {
+        "id": "2",
+        "path": "src/assets/img/work/power.png",
+        "title": "powe lube",
+        "tech": ["website"]
+    }, {
+        "id": "0",
+        "path": "src/assets/img/work/pos.png",
+        "title": "torbedo POS",
+        "tech": ["POS system", "website"]
     }]
 }
