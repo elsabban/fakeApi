@@ -1,4 +1,26 @@
 {
+    "blog": [{
+        "id": "0",
+        "path": "src/assets/img/blog/2.jpg",
+        "title": "web development",
+        "writer": "admin",
+        "date": "8/7/2021",
+        "desc": "Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
+    }, {
+        "id": "1",
+        "path": "src/assets/img/blog/1.jpg",
+        "title": "digital marketing",
+        "writer": "admin",
+        "date": "8/7/2021",
+        "desc": "Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
+    }, {
+        "id": "0",
+        "path": "src/assets/img/blog/3.jpg",
+        "title": "mobile App",
+        "writer": "admin",
+        "date": "8/7/2021",
+        "desc": "Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
+    }],
     "homepage": {
         "slider": [{
             "id": "0",
@@ -74,28 +96,7 @@
             "icon": "fad fa-analytics",
             "title": "pos systems",
             "desc": "Innovating products and solutions within your time and budget."
-        }],
-        "blog": [{
-            "id": "0",
-            "path": "src/assets/img/blog/2.jpg",
-            "title": "web development",
-            "writer": "admin",
-            "date": "8/7/2021",
-            "desc": "Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
-        }, {
-            "id": "1",
-            "path": "src/assets/img/blog/1.jpg",
-            "title": "digital marketing",
-            "writer": "admin",
-            "date": "8/7/2021",
-            "desc": "Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
-        }, {
-            "id": "0",
-            "path": "src/assets/img/blog/3.jpg",
-            "title": "mobile App",
-            "writer": "admin",
-            "date": "8/7/2021",
-            "desc": "Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
         }]
+
     }
 }
