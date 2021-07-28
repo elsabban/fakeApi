@@ -44,7 +44,8 @@
         "head": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
 
         "tags": ["business,development,web application,mobil application"],
-        "body": "digital marketing is the building and maintenance of websites Web development is the building and maintenance of websites"
+        "body": "digital marketing is the building and maintenance of websites Web development is the building and maintenance of websites",
+        "comments": []
     }, {
         "id": "2",
         "path": "src/assets/img/blog/3.jpg",
@@ -55,7 +56,8 @@
         "head": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
 
         "tags": ["business,development,web application,mobil application"],
-        "body": "mobile app is the building and maintenance of websites Web development is the building and maintenance of websites <img src='https://d19m59y37dris4.cloudfront.net/blog/1-2-1/img/featured-pic-3.jpeg' alt='...' class='img-fluid'> Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
+        "body": "mobile app is the building and maintenance of websites Web development is the building and maintenance of websites <img src='https://d19m59y37dris4.cloudfront.net/blog/1-2-1/img/featured-pic-3.jpeg' alt='...' class='img-fluid'> Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites",
+        "comments": []
     }],
     "homepage": {
         "slider": [{
