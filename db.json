@@ -105,8 +105,64 @@
             "path": "src/assets/img/work/pos.jpg",
             "title": "torbedo POS",
             "tech": ["POS system", "website"]
-        }]
+        }],
+        "about": [{
+            "title": "YALLA CODING",
+            "desc": "is an innovative technology and services company specializing we design and develop professional Business Solutions Joining Yalacoding is an invitation to build your own career , high standards and enthusiasm are the strong assets of our success. Come and meet the teams of our 'Yalacoding' to get started in your company. See you soon at your place",
+            "targets": [{
+                "title": "OUR MISSION",
+                "desc": "is an innovative technology and services company specializing we design and develop professional Business Solutions Joining Yalacoding is an invitation to build your own career"
+            }, {
+                "title": "OUR VISION",
+                "desc": "is an innovative technology and services company specializing we design and develop professional Business Solutions Joining Yalacoding is an invitation to build your own career"
+            }, {
+                "title": "OUR GOAL",
+                "desc": "is an innovative technology and services company specializing we design and develop professional Business Solutions Joining Yalacoding is an invitation to build your own career"
 
+            }]
+        }],
+        "services": [{
+            "icon": "fal fa-phone-laptop",
+            "title": "web development",
+            "desc": "Innovating products and solutions within your time and budget."
+        }, {
+            "icon": "fad fa-mobile-alt",
+            "title": "mobile app",
+            "desc": "Innovating products and solutions within your time and budget."
+        }, {
+            "icon": "fad fa-bullhorn",
+            "title": "digital marketing",
+            "desc": "Innovating products and solutions within your time and budget."
+        }, {
+            "icon": "fad fa-analytics",
+            "title": "pos systems",
+            "desc": "Innovating products and solutions within your time and budget."
+        }],
+        "blog": [{
+            "id": "0",
+            "path": "src/assets/img/blog/2.jpg",
+            "title": "web development",
+            "writer": "shehata",
+            "date": "8/7/2021",
+            "body": "web development is the building and maintenance of websites Web development is the building and maintenance of websites"
+
+        }, {
+            "id": "1",
+            "path": "src/assets/img/blog/1.jpg",
+            "title": "digital marketing",
+            "writer": "mrmarch",
+            "date": "1/7/2021",
+            "body": "digital marketing is the building and maintenance of websites Web development is the building and maintenance of websites"
+
+        }, {
+            "id": "2",
+            "path": "src/assets/img/blog/3.jpg",
+            "title": "mobile App",
+            "writer": "gemu",
+            "date": "2/7/2021",
+            "body": "mobile app is the building and maintenance of websites Web development is the building and maintenance of websites <img src='https://d19m59y37dris4.cloudfront.net/blog/1-2-1/img/featured-pic-3.jpeg' alt='...' class='img-fluid'> Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
+
+        }]
 
     }
 }
