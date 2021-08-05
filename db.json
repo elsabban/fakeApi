@@ -166,31 +166,6 @@
             "icon": "fad fa-analytics",
             "title": "pos systems",
             "desc": "Innovating products and solutions within your time and budget."
-        }],
-        "blog": [{
-            "id": "0",
-            "path": "src/assets/img/blog/2.jpg",
-            "title": "web development",
-            "writer": "shehata",
-            "date": "8/7/2021",
-            "body": "web development is the building and maintenance of websites Web development is the building and maintenance of websites"
-
-        }, {
-            "id": "1",
-            "path": "src/assets/img/blog/1.jpg",
-            "title": "digital marketing",
-            "writer": "mrmarch",
-            "date": "1/7/2021",
-            "body": "digital marketing is the building and maintenance of websites Web development is the building and maintenance of websites"
-
-        }, {
-            "id": "2",
-            "path": "src/assets/img/blog/3.jpg",
-            "title": "mobile App",
-            "writer": "gemu",
-            "date": "2/7/2021",
-            "body": "mobile app is the building and maintenance of websites Web development is the building and maintenance of websites <img src='https://d19m59y37dris4.cloudfront.net/blog/1-2-1/img/featured-pic-3.jpeg' alt='...' class='img-fluid'> Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
-
         }]
 
     }
