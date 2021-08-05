@@ -13,36 +13,7 @@
                 "author": "john Doe",
                 "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
             },
-            "body": {
-                "p": [{
-                        "@class": "lead",
-                        "#text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    },
-                    "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                    {
-                        "img": {
-                            "@src": "https://d19m59y37dris4.cloudfront.net/blog/1-2-1/img/featured-pic-3.jpeg",
-                            "@alt": "...",
-                            "@class": "img-fluid"
-                        }
-                    },
-                    "div Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda temporibus iusto voluptates deleniti similique rerum ducimus sint ex odio saepe. Sapiente quae pariatur ratione quis perspiciatis deleniti accusantium",
-                    "quasi nam. Libero dicta eum recusandae, commodi, ad, autem at ea iusto numquam veritatis, officiis. Accusantium optio minus, voluptatem? Quia reprehenderit, veniam quibusdam provident, fugit iusto ullam voluptas neque soluta adipisci ad."
-                ],
-                "h3": "Lorem Ipsum Dolor",
-                "blockquote": {
-                    "@class": "blockquote",
-                    "p": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
-                    "footer": {
-                        "@class": "blockquote-footer",
-                        "cite": {
-                            "@title": "Source Title",
-                            "#text": "Source Title"
-                        },
-                        "#text": "Someone famous in"
-                    }
-                }
-            },
+            "body": "web development is the building and maintenance of websites Web development is the building and maintenance of websites",
             "comments": [{
                 "id": "0",
                 "name": "mohsen momtaz",
@@ -166,6 +137,31 @@
             "icon": "fad fa-analytics",
             "title": "pos systems",
             "desc": "Innovating products and solutions within your time and budget."
+        }],
+        "blog": [{
+            "id": "0",
+            "path": "src/assets/img/blog/2.jpg",
+            "title": "web development",
+            "writer": "shehata",
+            "date": "8/7/2021",
+            "body": "web development is the building and maintenance of websites Web development is the building and maintenance of websites"
+
+        }, {
+            "id": "1",
+            "path": "src/assets/img/blog/1.jpg",
+            "title": "digital marketing",
+            "writer": "mrmarch",
+            "date": "1/7/2021",
+            "body": "digital marketing is the building and maintenance of websites Web development is the building and maintenance of websites"
+
+        }, {
+            "id": "2",
+            "path": "src/assets/img/blog/3.jpg",
+            "title": "mobile App",
+            "writer": "gemu",
+            "date": "2/7/2021",
+            "body": "mobile app is the building and maintenance of websites Web development is the building and maintenance of websites <img src='https://d19m59y37dris4.cloudfront.net/blog/1-2-1/img/featured-pic-3.jpeg' alt='...' class='img-fluid'> Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites Web development is the building and maintenance of websites"
+
         }]
 
     }
