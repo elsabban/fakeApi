@@ -60,18 +60,22 @@
             }]
         }],
         "services": [{
+            "id": "0",
             "icon": "fal fa-phone-laptop",
             "title": "web development",
             "desc": "Innovating products and solutions within your time and budget."
         }, {
+            "id": "1",
             "icon": "fad fa-mobile-alt",
             "title": "mobile app",
             "desc": "Innovating products and solutions within your time and budget."
         }, {
+            "id": "2",
             "icon": "fad fa-bullhorn",
             "title": "digital marketing",
             "desc": "Innovating products and solutions within your time and budget."
         }, {
+            "id": "3",
             "icon": "fad fa-analytics",
             "title": "pos systems",
             "desc": "Innovating products and solutions within your time and budget."
