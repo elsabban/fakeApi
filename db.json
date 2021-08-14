@@ -39,9 +39,9 @@
             "title": "powe lube",
             "tech": ["website"]
         }, {
-            "id": "0",
+            "id": "3",
             "path": "src/assets/img/work/pos.jpg",
-            "title": "torbedo POS",
+            "title": "torpedo POS",
             "tech": ["POS system", "website"]
         }],
         "about": [{
